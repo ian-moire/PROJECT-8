@@ -1,4 +1,3 @@
-# PROJECT-8
 # NON-TECHNICAL
 1. **PRESENTATION [Link](https://docs.google.com/presentation/d/1FHgCXtMoHP5SU3UJoLK631EElmExWf8GHlGy51SmPqE/edit?usp=sharing)**
 2. **TABLEAU [Link](https://public.tableau.com/app/profile/ian.moire/viz/KENYAMENSFERTILITYINSIGHTS/KENYAMENSFERTILITYINSIGHTS)**
